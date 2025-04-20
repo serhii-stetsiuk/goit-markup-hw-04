@@ -191,7 +191,7 @@ ul {
 	flex-basis: calc((100%-3*24px)/4);
 	display: flex;
 	flex-direction: column;
-	gap: 8px;
+	/* gap: 8px; */
 	justify-content: flex-start;
 }
 .advantages-image {
@@ -205,6 +205,7 @@ ul {
 		padding: 24px 100px;
 		background-color: #f4f4fd;
 		gap: 8px;
+		margin-bottom: 8px;
 }
 .general-title-three {
 	font-weight: 500;
@@ -212,7 +213,7 @@ ul {
 	line-height: 1.2;
 	color: #2e2f42;
 	letter-spacing: 0.02em;
-	
+	margin-bottom: 8px;
 }
 
 /* Our Team */
@@ -243,6 +244,7 @@ ul {
 	text-transform: capitalize;
 	margin-bottom: 72px;
 }
+
 .team-item {
 	flex-basis: calc((100% - 3 * 24px) / 4);
 	background-color: #fff;
