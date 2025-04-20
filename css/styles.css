@@ -267,7 +267,7 @@ ul {
 	transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-media-icon:hover {
-	background-color: #404bbf;;
+	background-color: #404bbf;
 }
 .social-icon {
 	display: inline-block;
@@ -366,7 +366,7 @@ a.baner-basement {
 		font-size: 16px;
 		line-height: 1.5;
 		letter-spacing: 0.02em;
-		color: #F4F4FD;
+		color: #FFFFFF;
 	margin-bottom: 16px;
 }
 .social-icon-gap {
