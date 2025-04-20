@@ -361,7 +361,7 @@ ul {
 a.baner-basement {
 	display: inline-block;
 	padding: 0;
-	margin-bottom: 16px;
+	
 }
 .social-media {
 	font-weight: 500;
@@ -369,7 +369,7 @@ a.baner-basement {
 		line-height: 1.5;
 		letter-spacing: 0.02em;
 		color: #FFFFFF;
-	
+	margin-bottom: 16px;
 }
 .social-icon-gap {
 	gap: 16px;
