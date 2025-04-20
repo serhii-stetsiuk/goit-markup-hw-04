@@ -369,7 +369,7 @@ a.baner-basement {
 		line-height: 1.5;
 		letter-spacing: 0.02em;
 		color: #FFFFFF;
-	margin-bottom: 16px;
+	margin: 0 0 16px 0;
 }
 .social-icon-gap {
 	gap: 16px;
