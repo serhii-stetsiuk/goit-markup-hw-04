@@ -317,7 +317,7 @@ ul {
 	
 }
 .portfolio-item:hover .blue-card {
-	transform: translateY(0);
+	transform: translateY(0%);
 }
 
 .portfolio-item:hover {
@@ -345,6 +345,7 @@ ul {
 .basement-main {
 	display: flex;
 	flex-direction: row;
+	align-items: baseline;
 	
 }
 .basement-increase {
